@@ -4,6 +4,8 @@
 ![alt text](https://github.com/username/Netology1/blob/main/5816ddeccbd913bfd17a52420aea503bfa889565/1.jpg)
 ![alt text](https://github.com/username/Netology1/blob/main/5816ddeccbd913bfd17a52420aea503bfa889565/11.jpg)
 
+![alt text](https://raw.githubusercontent.com/VasiliyL1992/Netology1/5816ddeccbd913bfd17a52420aea503bfa889565/1.jpg)
+
 2.https://github.com/VasiliyL1992/Netology1/commit/4db5b448eeeb0b2c0062ce3dec94a865d0c27cee
 ![alt text](https://github.com/username/Netology1/blob/main/5816ddeccbd913bfd17a52420aea503bfa889565/2.jpg)
 
